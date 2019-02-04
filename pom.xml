@@ -23,7 +23,7 @@
     
   </dependencies>
   <build>
-    <finalName>MyWebAppMaven</finalName>
+    <finalName>MyWebAppMavenNew</finalName>
 	<!-- <sourceDirectory>src/main/java</sourceDirectory> -->
 		<plugins>
 			<plugin>
