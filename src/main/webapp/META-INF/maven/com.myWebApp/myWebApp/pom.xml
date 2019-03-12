@@ -23,7 +23,7 @@
     
   </dependencies>
   <build>
-    <finalName>MyWebAppMavenNew</finalName>
+    <finalName>MyWebApp</finalName>
 	<!-- <sourceDirectory>src/main/java</sourceDirectory> -->
 		<plugins>
 			<plugin>
@@ -32,7 +32,7 @@
 				<version>2.3</version>
 				<configuration>
 					<!-- <warSourceDirectory>src/main/webapp</warSourceDirectory> -->
-					<outputDirectory>C:\apache-tomcat-9.0.14\webapps\</outputDirectory>
+					<!-- <outputDirectory>C:\apache-tomcat-9.0.14\webapps\</outputDirectory> -->
 				</configuration>
 			</plugin>
 			
